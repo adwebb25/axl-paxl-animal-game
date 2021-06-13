@@ -1,0 +1,104 @@
+body {
+  text-align: center;
+  background-color:grey;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.l {
+  background-image: url("images/lion-2.jpeg");
+}
+
+.e {
+  background-image: url("images/elephant.jpg");
+}
+
+.g {
+  background-image: url("images/gorilla.jpg");
+}
+
+.h {
+  background-image: url("images/horse.jpg");
+}
+
+.p {
+  background-image: url("images/pig.jpg");
+}
+
+.c {
+  background-image: url("images/cat.jpg");
+}
+
+.d {
+  background-image: url("images/dog.jpg");
+}
+
+.s {
+  background-image: url("images/sheep.jpg");
+}
+
+.t {
+  background-image: url("images/tiger.jpg");
+}
+
+.a {
+  background-image: url("images/alligator.jpg");
+}
+
+.w {
+  background-image: url("images/wolf.jpg");
+}
+
+.r {
+  background-image: url("images/rattlesnake.jpg");
+}
+
+.f {
+  background-image: url("images/frog.jpg");
+}
+
+.o {
+  background-image: url("images/owl.jpg");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.animal {
+  outline: none;
+  border: 5px solid #2e382f;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #11e62d;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
