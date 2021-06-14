@@ -1,8 +1,8 @@
 // alert("hello world!");
 
-var numberOfDrumButtons = document.querySelectorAll(".animal").length;
+var numberOfAnimalButtons = document.querySelectorAll(".animal").length;
 
-for (var i = 0; i < numberOfDrumButtons; i++) {
+for (var i = 0; i < numberOfAnimalButtons; i++) {
 
   document.querySelectorAll(".animal")[i].addEventListener("click", function() {
 
